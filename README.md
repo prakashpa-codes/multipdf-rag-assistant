@@ -6,9 +6,7 @@ A local document Q&A application that searches across multiple PDF documents, ge
 
 Watch the application walkthrough:
 
-<video src="assets/Document-Intelligence-RAG-Assistant.mp4" controls playsinline width="100%">Your browser does not support embedded video. [Open the demo video](assets/Document-Intelligence-RAG-Assistant.mp4).</video>
-
-Save your screen recording as `screenshots/demo.mp4` for this embed to work. GitHub's rendering of repository-hosted video can vary by browser; if the player does not appear, use the [direct video link](screenshots/demo.mp4).
+https://github.com/user-attachments/assets/17669ee5-20eb-4fe2-98e4-bb14aa81b672
 
 ## Architecture
 
